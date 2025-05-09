@@ -1,0 +1,3 @@
+src of dataset: https://github.com/Ermlab/pl-sentiment-analysis?tab=readme-ov-file#data 
+
+licence: MIT
